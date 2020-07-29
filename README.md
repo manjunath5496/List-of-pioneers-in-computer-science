@@ -246,7 +246,7 @@
 </tr>
 <tr>
 <td>1986, 1990</td>
-<td><a class="mw-redirect" title="Barbara Grosz" href="https://en.wikipedia.org/wiki/Barbara_Grosz">Grosz, Barbara</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Neutral point of view" href="https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight"><span title="The material near this tag may be giving undue weight to a viewpoint or idea. (October 2017)">undue weight?</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:List of pioneers in computer science" href="https://en.wikipedia.org/wiki/Talk:List_of_pioneers_in_computer_science#undue">discuss</a></span></em>]</sup></td>
+<td><a class="mw-redirect" title="Barbara Grosz" href="https://en.wikipedia.org/wiki/Barbara_Grosz">Grosz, Barbara</a></td>
 <td>Created the first computational model of&nbsp;<a title="Discourse" href="https://en.wikipedia.org/wiki/Discourse">discourse</a>, which established the field of research and influenced language-processing technologies. Also developed&nbsp;<a class="new" title="SharedPlans (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=SharedPlans&amp;action=edit&amp;redlink=1">SharedPlans</a>&nbsp;model for collaboration in&nbsp;<a class="mw-redirect" title="Multi-agent systems" href="https://en.wikipedia.org/wiki/Multi-agent_systems">multi-agent systems</a>.</td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@
 </tr>
 <tr>
 <td>1972, 1973</td>
-<td><a title="Andr&eacute; Truong Trong Thi" href="https://en.wikipedia.org/wiki/Andr%C3%A9_Truong_Trong_Thi">Thi, Andr&eacute; Truong Trong</a>&nbsp;and&nbsp;<a title="Fran&ccedil;ois Gernelle" href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Gernelle">Fran&ccedil;ois Gernelle</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Neutral point of view" href="https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight"><span title="The material near this tag may be giving undue weight to a viewpoint or idea. (October 2017)">undue weight?</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:List of pioneers in computer science" href="https://en.wikipedia.org/wiki/Talk:List_of_pioneers_in_computer_science#undue">discuss</a></span></em>]</sup></td>
+<td><a title="Andr&eacute; Truong Trong Thi" href="https://en.wikipedia.org/wiki/Andr%C3%A9_Truong_Trong_Thi">Thi, Andr&eacute; Truong Trong</a>&nbsp;and&nbsp;<a title="Fran&ccedil;ois Gernelle" href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Gernelle">Fran&ccedil;ois Gernelle</a></td>
 <td>Invention of the&nbsp;<a title="Micral" href="https://en.wikipedia.org/wiki/Micral">Micral N</a>, the earliest commercial, non-kit personal computer based on a&nbsp;<a title="Microprocessor" href="https://en.wikipedia.org/wiki/Microprocessor">microprocessor</a>.</td>
 </tr>
 <tr>
@@ -326,7 +326,7 @@
 </tr>
 <tr>
 <td>1953</td>
-<td><a title="Karen Sp&auml;rck Jones" href="https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones">Sp&auml;rck Jones, Karen</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Neutral point of view" href="https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight"><span title="The material near this tag may be giving undue weight to a viewpoint or idea. (October 2017)">undue weight?</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:List of pioneers in computer science" href="https://en.wikipedia.org/wiki/Talk:List_of_pioneers_in_computer_science#undue">discuss</a></span></em>]</sup></td>
+<td><a title="Karen Sp&auml;rck Jones" href="https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones">Sp&auml;rck Jones, Karen</a></td>
 <td>One of the pioneers of&nbsp;<a title="Information retrieval" href="https://en.wikipedia.org/wiki/Information_retrieval">information retrieval</a>&nbsp;and&nbsp;<a title="Natural language processing" href="https://en.wikipedia.org/wiki/Natural_language_processing">natural language processing</a>.</td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@
 </tr>
 <tr>
 <td>1964</td>
-<td><a title="Pier Giorgio Perotto" href="https://en.wikipedia.org/wiki/Pier_Giorgio_Perotto">Perotto, Pier Giorgio</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Neutral point of view" href="https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight"><span title="The material near this tag may be giving undue weight to a viewpoint or idea. (October 2017)">undue weight?</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:List of pioneers in computer science" href="https://en.wikipedia.org/wiki/Talk:List_of_pioneers_in_computer_science#undue">discuss</a></span></em>]</sup></td>
+<td><a title="Pier Giorgio Perotto" href="https://en.wikipedia.org/wiki/Pier_Giorgio_Perotto">Perotto, Pier Giorgio</a></td>
 <td>Computer designer for&nbsp;<a class="mw-redirect" title="Olivetti" href="https://en.wikipedia.org/wiki/Olivetti">Olivetti</a>, designed one of the first electronic&nbsp;<a title="Programmable calculator" href="https://en.wikipedia.org/wiki/Programmable_calculator">programmable calculators</a>, the&nbsp;<a title="Programma 101" href="https://en.wikipedia.org/wiki/Programma_101">Programma 101</a><sup id="cite_ref-35" class="reference"></sup></td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@
 </tr>
 <tr>
 <td>1995</td>
-<td><a title="Rosalind Picard" href="https://en.wikipedia.org/wiki/Rosalind_Picard">Picard, Rosalind</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Neutral point of view" href="https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight"><span title="The material near this tag may be giving undue weight to a viewpoint or idea. (October 2017)">undue weight?</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:List of pioneers in computer science" href="https://en.wikipedia.org/wiki/Talk:List_of_pioneers_in_computer_science#undue">discuss</a></span></em>]</sup></td>
+<td><a title="Rosalind Picard" href="https://en.wikipedia.org/wiki/Rosalind_Picard">Picard, Rosalind</a></td>
 <td>Founded&nbsp;<a class="mw-redirect" title="Affective Computing" href="https://en.wikipedia.org/wiki/Affective_Computing">Affective Computing</a>, and laid the foundations for giving computers skills of emotional intelligence.</td>
 </tr>
 <tr>
@@ -526,7 +526,7 @@
 </tr>
 <tr>
 <td>1975</td>
-<td><a title="Gerard Salton" href="https://en.wikipedia.org/wiki/Gerard_Salton">Salton, Gerard</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Neutral point of view" href="https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight"><span title="The material near this tag may be giving undue weight to a viewpoint or idea. (October 2017)">undue weight?</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:List of pioneers in computer science" href="https://en.wikipedia.org/wiki/Talk:List_of_pioneers_in_computer_science#undue">discuss</a></span></em>]</sup></td>
+<td><a title="Gerard Salton" href="https://en.wikipedia.org/wiki/Gerard_Salton">Salton, Gerard</a></td>
 <td>A pioneer of automatic&nbsp;<a title="Information retrieval" href="https://en.wikipedia.org/wiki/Information_retrieval">information retrieval</a>, who proposed the&nbsp;<a title="Vector space model" href="https://en.wikipedia.org/wiki/Vector_space_model">vector space model</a>&nbsp;and the&nbsp;<a title="Inverted index" href="https://en.wikipedia.org/wiki/Inverted_index">inverted index</a>.</td>
 </tr>
 <tr>
